@@ -13,6 +13,8 @@ If that fails you can try:
 
 This project comes with three different task you can run:
 
-    npm run browserify
-    npm run watchify
-    npm run dev # watchify and starts server on :3000
+```bash
+npm run browserify
+npm run watchify
+npm run dev # watchify and starts server on :3000
+```
